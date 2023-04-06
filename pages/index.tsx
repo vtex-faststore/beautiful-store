@@ -16,7 +16,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.center}>
           <h1 className={inter.className} style={{ zIndex: 10 }}>
-            FastStore Fashion
+            Test
           </h1>
         </div>
       </main>
